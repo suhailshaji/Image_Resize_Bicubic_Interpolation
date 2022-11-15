@@ -1,1 +1,2 @@
 # Image_Resize_Bicubic_Interpolation
+Image resizing is a crucial concept that wishes to augment or reduce the number of pixels in a picture. Applications of image resizing can occur under a wider form of scenarios: transliteration of the image, correcting for lens distortion, changing perspective, and rotating a picture. The results of resizing greatly vary looking on the kind of interpolation algorithm used.
