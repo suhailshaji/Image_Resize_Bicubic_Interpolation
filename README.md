@@ -1,2 +1,4 @@
-# Image_Resize_Bicubic_Interpolation
+<h1> Image Resize Bicubic Interpolation </h1>
 Image resizing is a crucial concept that wishes to augment or reduce the number of pixels in a picture. Applications of image resizing can occur under a wider form of scenarios: transliteration of the image, correcting for lens distortion, changing perspective, and rotating a picture. The results of resizing greatly vary looking on the kind of interpolation algorithm used.
+<h2>What is Interpolation?</h2>
+Interpolation works by using known data to estimate values at unknown points. For example: if you wanted to understand the pixel intensity of a picture at a selected location within the grid (say coordinate (x, y), but only (x-1,y-1) and (x+1,y+1) are known, you’ll estimate the value at (x, y) using linear interpolation. The greater the quantity of already known values, the higher would be the accuracy of the estimated pixel value.
